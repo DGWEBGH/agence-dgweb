@@ -1,0 +1,149 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 843px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 754px;
+  margin-top: 89px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 683px;
+  width: 453px;
+  background-image: none;
+  margin: -730px auto 45px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 17px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  text-align: left;
+  text-transform: uppercase;
+  margin: 0 32px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 556px;
+  width: 379px;
+  margin: 27px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-label-4 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-5 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-transform: none;
+  font-weight: 400;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  width: 100%;
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 845px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 692px;
+    margin-bottom: 40px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 36px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    margin-bottom: 38px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 842px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    min-height: 762px;
+    margin-top: -803px;
+    margin-bottom: 40px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 12px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 320px;
+  }
+}
